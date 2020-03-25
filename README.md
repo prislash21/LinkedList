@@ -5,4 +5,4 @@ ___
 _Summery_
  * User can add Head Node.
  * Every next node is related to its previous node. 
- * If the next node space it already filled then no new node can be placed for the targeted node.Then it will throw exception.
+ * If the next node's place is already filled then no new node can be placed for the targeted node.Then it will throw exception.
